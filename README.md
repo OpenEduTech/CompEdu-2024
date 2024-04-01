@@ -19,7 +19,7 @@
 
 - 03-01：第一讲，数据驱动的教育数字化转型（@AliceCodeZhang ），课件：[数据驱动的教育数字化.pdf](https://github.com/OpenEduTech/CompEdu-2024/files/14555673/default.pdf)
 - 03-08：第二讲，大模型赋能全民数字素养与技能提升（@will-ww），课件：[大模型赋能全民数字素养与技能提升.pdf](https://github.com/OpenEduTech/CompEdu-2024/files/14544201/default.pdf)
-- 03-15：第三讲，代码大模型关键技术与应用案例（LXS）
+- 03-15：第三讲，代码大模型关键技术与应用案例（LXS）[代码大模型关键技术与应用案例.pdf](https://github.com/OpenEduTech/CompEdu-2024/files/14822815/%2B.20240315.pdf)
 - 03-22：第四讲，大模型技术在水杉在线平台中的应用案例（PP）
 - 03-29：第五讲，知识图谱与大模型技术的结合与教育场景应用（GM）
 - 04-05：第六讲，AI4Science 教育场景中的大模型技术（LY）
